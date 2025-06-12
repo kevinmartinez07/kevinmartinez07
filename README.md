@@ -8,7 +8,7 @@
 
 ---
 
-## 🇪🇸 Sobre mí / 🇬🇧 About me
+## Sobre mí /  About me
 
 Soy un desarrollador apasionado por la tecnología, con experiencia en desarrollo de software frontend y backend, integración de inteligencia artificial y despliegues en la nube. Actualmente curso el 7° semestre de Ingeniería de Sistemas en el ITM (Medellín) y trabajo en proyectos reales en HYG Consultores S.A.S.
 
@@ -16,7 +16,7 @@ I am a passionate developer with experience in frontend and backend software dev
 
 ---
 
-## 🇪🇸 Experiencia profesional y proyectos destacados / 🇬🇧 Professional Experience & Key Projects
+## Experiencia profesional y proyectos destacados / Professional Experience & Key Projects
 
 Actualmente trabajo como **Desarrollador de Software en HYG Consultores S.A.S.** ([https://hyg.com.co/](https://hyg.com.co/)), empresa especializada en soluciones geográficas corporativas.
 
@@ -112,7 +112,7 @@ I currently work as a **Software Developer at HYG Consultores S.A.S.** ([https:/
 
 ---
 
-## 🛠️ 🇪🇸 Tecnologías y Herramientas / 🇬🇧 Technologies & Tools
+## 🛠️ Tecnologías y Herramientas / Technologies & Tools
 
 ### 👨‍💻 Lenguajes de Programación / Programming Languages
 
@@ -161,7 +161,7 @@ I currently work as a **Software Developer at HYG Consultores S.A.S.** ([https:/
 
 ---
 
-## 🎯 🇪🇸 Enfoque profesional / 🇬🇧 Professional Focus
+## 🎯 Enfoque profesional / Professional Focus
 
 🔹 Desarrollo de software robusto, escalable y de alta calidad.  
 🔹 High-quality, robust, and scalable software development.
@@ -177,7 +177,7 @@ I currently work as a **Software Developer at HYG Consultores S.A.S.** ([https:/
 
 ---
 
-## 📫 🇪🇸 Contacto / 🇬🇧 Contact
+## 📫 Contacto / Contact
 
 🔗 [LinkedIn](http://linkedin.com/in/kevin-santiago-martinez-molina-b21a0b166)  
 ✉️ Email: kevinmartinez0114@gmail.com  
