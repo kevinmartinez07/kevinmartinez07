@@ -10,17 +10,17 @@
 
 ## Sobre mí /  About me
 
-Soy un desarrollador apasionado por la tecnología, con experiencia en desarrollo de software frontend y backend, integración de inteligencia artificial y despliegues en la nube. Actualmente curso el 8° semestre de Ingeniería de Sistemas en el ITM (Medellín) y trabajo en proyectos reales en HYG Consultores S.A.S.
+Desarrollador fullstack con experiencia en construcción de **SPAs** y **APIs REST**, trabajo con **SQL (PostgreSQL/SQL Server)**, **Git** y prácticas de entrega continua (**Azure DevOps CI/CD**). En 2025 fortalecí conocimientos en **arquitectura limpia/hexagonal**, **DDD**, y diseño de soluciones escalables orientadas a producto.
 
-I am a passionate developer with experience in frontend and backend software development, AI integration, and cloud deployments. Currently, I am a 8th-semester Systems Engineering student at ITM (Medellín) and work on real-world projects at HYG Consultores S.A.S.
+Fullstack developer experienced in building **SPAs** and **REST APIs**, working with **SQL (PostgreSQL/SQL Server)**, **Git**, and **CI/CD with Azure DevOps**. In 2025, I strengthened my skills in **Clean/Hexagonal Architecture**, **DDD**, and scalable product-oriented development.
 
 ---
 
 ## Experiencia profesional y proyectos destacados / Professional Experience & Key Projects
 
-Actualmente trabajo como **Desarrollador de Software en HYG Consultores S.A.S.** ([https://hyg.com.co/](https://hyg.com.co/)), empresa especializada en soluciones geográficas corporativas.
+- **Actualmente / Currently:** Software Developer @ **Ofima S.A.S.** (proyectos fullstack con enfoque en arquitectura y cloud)
+- **Experiencia previa / Previous:** Software Developer @ **HYG Consultores S.A.S.** (soluciones geográficas corporativas)
 
-I currently work as a **Software Developer at HYG Consultores S.A.S.** ([https://hyg.com.co/](https://hyg.com.co/)), a company specialized in corporate geographic solutions.
 
 ### 🌟 Proyectos destacados / Key Projects
 
@@ -133,6 +133,7 @@ I currently work as a **Software Developer at HYG Consultores S.A.S.** ([https:/
     <h3>Frameworks y Librerías:</h3>
     <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
