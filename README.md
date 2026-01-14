@@ -12,7 +12,7 @@
 
 ---
 
-## Experience
+## 💼 Experience
 
 - **Current:** Software Developer @ **Ofima S.A.S.** (full stack · architecture · cloud)
 - **Previous:** Software Developer @ **HYG Consultores S.A.S.** (enterprise geospatial solutions)
