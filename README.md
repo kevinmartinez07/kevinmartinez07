@@ -21,6 +21,8 @@
 
 ## 🚀 Key Projects
 
+- **DomoNow (Ofima S.A.S.):** Microfrontends (Angular) + microservices (.NET/C#), **REST APIs**, **PostgreSQL**, **Azure DevOps CI/CD**. Clean/Hexagonal Architecture + DDD.
+
 - **SAU – Área Metropolitana del Valle de Aburrá:** New modules + app support; urban tree data management.  
   🔗 [https://www.medellin.gov.co/sau/](https://www.medellin.gov.co/sau/)
 
