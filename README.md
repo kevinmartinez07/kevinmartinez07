@@ -97,6 +97,7 @@ Scrum · Kanban · Jira · Azure DevOps Boards · GitFlow
     <h3>Cloud & DevOps:</h3>
     <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
     </div>
   </div>
