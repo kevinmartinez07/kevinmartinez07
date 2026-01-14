@@ -89,7 +89,7 @@ Scrum · Kanban · Jira · Azure DevOps Boards · GitFlow
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongo/mongo-original.svg" height="40" alt="mongo logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
     </div>
   </div>
 
