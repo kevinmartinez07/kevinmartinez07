@@ -1,13 +1,13 @@
 # 👋 Hi i'm Kevin Santiago Martinez Molina
 
-**Full Stack Developer** · **React/Angular** · **.NET (C#) & Node.js** · **REST APIs** · **SQL (PostgreSQL/SQL Server)**  
+**Full Stack Developer** · **React/Angular** · **Java (Spring Boot)& .NET (C#) & Node.js** · **REST APIs** · **SQL (PostgreSQL/SQL Server)**  
 **Systems Engineering (9th semester) – ITM Medellín** · **Cloud & AI (Python) Enthusiast**
 
 ---
 
 ## About / Sobre mí
 
-**ES:** Desarrollador full stack con experiencia construyendo **SPAs (React/Angular)** y **APIs REST (Node.js/.NET)** sobre **SQL (PostgreSQL/SQL Server)**. En 2025 fortalecí **Clean/Hexagonal Architecture**, **DDD** y prácticas de entrega continua con **Azure DevOps (CI/CD)**.  
+**ES:** Desarrollador full stack con experiencia construyendo **SPAs (React/Angular)** y **APIs REST (Java con Spring Boot/Node.js/.NET)** sobre **SQL (PostgreSQL/SQL Server)**. En 2025 fortalecí **Clean/Hexagonal Architecture**, **DDD** y prácticas de entrega continua con **Azure DevOps (CI/CD)**.  
 **EN:** Full stack developer experienced in **SPAs** and **REST APIs**, working with **SQL**, **Git**, and **CI/CD (Azure DevOps)**. Strong interest in **Clean Architecture/DDD** and scalable product development.
 
 ---
