@@ -1,140 +1,149 @@
-# 👋 Hi i'm Kevin Santiago Martinez Molina
+# 👋 Hi, I'm Kevin Santiago Martinez Molina
 
-**Full Stack Developer** · **React/Angular** · **Java (Spring Boot)& .NET (C#) & Node.js** · **REST APIs** · **SQL (PostgreSQL/SQL Server)**  
-**Systems Engineering (9th semester) – ITM Medellín** · **Cloud & AI (Python) Enthusiast**
+**Full Stack Developer** · **Angular / React** · **.NET / Java Spring Boot / Node.js**  
+**REST APIs** · **PostgreSQL / SQL Server** · **Clean Architecture / DDD**
+
+**Systems Engineering Student (9th semester) – ITM Medellín** · **Cloud & Applied AI Enthusiast**
 
 ---
 
 ## About / Sobre mí
 
-**ES:** Desarrollador full stack con experiencia construyendo **SPAs (React/Angular)** y **APIs REST (Java con Spring Boot/Node.js/.NET)** sobre **SQL (PostgreSQL/SQL Server)**. En 2025 fortalecí **Clean/Hexagonal Architecture**, **DDD** y prácticas de entrega continua con **Azure DevOps (CI/CD)**.  
-**EN:** Full stack developer experienced in **SPAs** and **REST APIs**, working with **SQL**, **Git**, and **CI/CD (Azure DevOps)**. Strong interest in **Clean Architecture/DDD** and scalable product development.
+**ES:** Soy desarrollador full stack con experiencia en la construcción de **SPAs**, **APIs REST** y soluciones empresariales usando **Angular, React, .NET, Java Spring Boot y Node.js**. He trabajado en entornos orientados a producto y soluciones corporativas, participando en desarrollo de módulos, soporte evolutivo, integración de servicios y mejora continua. Me interesa especialmente el desarrollo escalable, la **arquitectura limpia/hexagonal**, **DDD**, la integración cloud y el uso aplicado de IA con Python.
+
+**EN:** Full stack developer with experience building **SPAs**, **REST APIs**, and enterprise solutions using **Angular, React, .NET, Java Spring Boot, and Node.js**. I have worked in both product-oriented and corporate environments, contributing to module development, continuous support, service integration, and software improvement. I am especially interested in scalable systems, **clean/hexagonal architecture**, **DDD**, cloud-oriented environments, and applied AI with Python.
 
 ---
 
 ## 💼 Experience
 
-- **Current:** Software Developer @ **Ofima S.A.S.** (full stack · architecture · cloud)
-- **Previous:** Software Developer @ **HYG Consultores S.A.S.** (enterprise geospatial solutions)
+- **Current:** Full Stack Developer @ **PrevalentWare S.A.S.**
+- **Previous:** Software Developer @ **Ofima S.A.S.**
+- **Previous:** Software Developer @ **HYG Consultores S.A.S.**
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Selected Projects
 
-- **DomoNow(MVP - PWA) (Ofima S.A.S.):** Microfrontends (Angular) + microservices (.NET/C#), **REST APIs**, **PostgreSQL**, **Azure DevOps CI/CD**. Clean/Hexagonal Architecture + DDD.
-  🔗 [https://qa.domonow.com/](https://qa.domonow.com/)
+### **DomoNow – Ofima S.A.S.**
+Property management platform developed with **Angular microfrontends**, **.NET microservices**, **PostgreSQL**, and **MongoDB**.  
+Applied **Clean Architecture**, **Hexagonal Architecture**, and **DDD** in enterprise product development.  
+🔗 [https://qa.domonow.com/](https://qa.domonow.com/)
 
-- **SAU – Área Metropolitana del Valle de Aburrá:** New modules + app support; urban tree data management.  
-  🔗 [https://www.medellin.gov.co/sau/](https://www.medellin.gov.co/sau/)
+### **SAU – Área Metropolitana del Valle de Aburrá**
+Enterprise solution focused on urban tree data management, including support, maintenance, and implementation of new modules for public sector operations.  
+🔗 [https://www.medellin.gov.co/sau/](https://www.medellin.gov.co/sau/)
 
-- **SEPOT – Alcaldía de Medellín:** Cadastral/property information system; new features + continuous support.
+### **SEPOT – Alcaldía de Medellín**
+Cadastral and property information system, contributing to feature development, platform support, and continuous improvement processes.
 
-- **SITCO Predial – ISA:** Energy tower management (Panama, Colombia, Peru, Chile, Ecuador); modules + production support (+4 months).  
-  🔗 [https://itco-aplicacionesn-sitco-predial-prd.azurewebsites.net/Home/Login](https://itco-aplicacionesn-sitco-predial-prd.azurewebsites.net/Home/Login)
+### **SITCO Predial – ISA**
+Platform for energy tower management across **Panama, Colombia, Peru, Chile, and Ecuador**, including module development and production support.  
+🔗 [https://itco-aplicacionesn-sitco-predial-prd.azurewebsites.net/Home/Login](https://itco-aplicacionesn-sitco-predial-prd.azurewebsites.net/Home/Login)
 
-- **MICI – ISA:** App for Corrosive Aggression Index calculation; design + implementation.
+### **MICI – ISA**
+Application for calculating the **Corrosive Aggression Index**, participating in design and implementation tasks.
 
-- **Riesgos Geodinámicos – ISA:** Threat analysis/visualization for substations; integration with models and analysis services.
-
----
-
-## 🧪 Personal / Research
-
-- Image & text classifiers with **Python** (DL/ML).
-- Chatbots with **LLMs** and fine-tuned models.
-- Dashboards/APIs for geospatial analytics.
-- CI/CD pipelines with **Azure DevOps** and cloud configuration.
-- Geospatial solutions with **ArcGIS Server**, **GeoServer**, **PostGIS**.
+### **Riesgos Geodinámicos – ISA**
+System for threat analysis and visualization in substations, integrating analytical models and analysis services.
 
 ---
 
-## ⚙️ Methodologies
+## 🧪 Personal / Research Interests
 
-Scrum · Kanban · Jira · Azure DevOps Boards · GitFlow
+- Applied AI with **Python**, **ML/DL**, **LLMs**, and text/image classifiers
+- Chatbots and intelligent assistants powered by language models
+- Dashboard and API development for analytics and data-driven solutions
+- CI/CD pipelines and cloud-based deployment environments
+- Geospatial solutions with **ArcGIS Server**, **GeoServer**, and **PostGIS**
+
+---
+
+## 🎯 Technical Focus
+
+- Full stack web development
+- SPA development with Angular and React
+- REST API design and implementation
+- Microservices and microfrontend-based systems
+- SQL / NoSQL data modeling
+- Clean Architecture, Hexagonal Architecture, and DDD
+- CI/CD with Azure DevOps
+- Applied AI with Python and LLM-based solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+### Lenguajes:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+</p>
 
-  <div>
-    <h3>Lenguajes:</h3>
-    <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-    </div>
-  </div>
+### Frameworks y Librerías:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+</p>
 
-  <div>
-    <h3>Frameworks y Librerías:</h3>
-    <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-    </div>
-  </div>
+### Bases de datos:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+</p>
 
-  <div>
-    <h3>Bases de datos:</h3>
-    <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-    </div>
-  </div>
+### Cloud & DevOps:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+</p>
 
-  <div>
-    <h3>Cloud & DevOps:</h3>
-    <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-    </div>
-  </div>
+### Herramientas:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visual studio logo" />
+</p>
 
-  <div>
-    <h3>Herramientas:</h3>
-    <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
-    </div>
-  </div>
+---
 
-</div>
+## ⚙️ Methodologies
+
+**Scrum** · **Kanban** · **Jira** · **Azure DevOps Boards** · **GitFlow**
 
 ---
 
 ## 📫 Contact
 
-🔗 LinkedIn: https://www.linkedin.com/in/kevin-santiago-martinez-molina-b21a0b166/  
-✉️ Email: kevinmartinez0114@gmail.com  
-🐙 GitHub: https://github.com/kevinmartinez07
+🔗 **LinkedIn:** [kevin-santiago-martinez-molina-b21a0b166](https://www.linkedin.com/in/kevin-santiago-martinez-molina-b21a0b166/)  
+✉️ **Email:** kevinmartinez0114@gmail.com  
+🐙 **GitHub:** [kevinmartinez07](https://github.com/kevinmartinez07)
 
 ---
 
-## 🌱 Valores profesionales / Professional Values
+## 🌱 Professional Values / Valores profesionales
 
-🔸 Compromiso con el aprendizaje continuo. / Commitment to continuous learning.  
-🔸 Trabajo en equipo y comunicación efectiva. / Teamwork and effective communication.  
-🔸 Enfoque en la entrega de valor al cliente. / Focus on delivering value to the customer.  
-🔸 Adaptabilidad y resolución de problemas complejos. / Adaptability and complex problem solving.
+- Commitment to continuous learning
+- Teamwork and effective communication
+- Focus on delivering customer value
+- Adaptability and complex problem solving
 
 ---
 
-⭐ *Gracias por visitar mi perfil de GitHub. ¡Estoy abierto a nuevos desafíos y oportunidades!*  
-⭐ *Thanks for visiting my GitHub profile. I am open to new challenges and opportunities!*
+⭐ *Thanks for visiting my GitHub profile. I’m open to professional opportunities, collaboration, and continuous growth in software engineering.*
 
-![](https://komarev.com/ghpvc/?username=Kevinmartinez07&color=79b8ff)
+![](https://komarev.com/ghpvc/?username=kevinmartinez07&color=79b8ff)
